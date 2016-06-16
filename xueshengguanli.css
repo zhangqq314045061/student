@@ -1,0 +1,42 @@
+*{
+	padding:0;
+	margin:0;
+	list-style: none;
+}
+.biao{
+	border:1px solid #ff90d0;
+	width:500px;
+	margin:0 auto;
+	text-align: center;
+	padding: 10px;
+
+}
+.table{
+	width:100%;
+    border-spacing: 0;
+    padding:10px;
+}
+.table td{
+	border:1px solid #12f357;
+	width:18%;
+	padding: 5px 0;
+}
+.qw{
+	display: inline-block;
+	cursor: pointer;
+
+}
+.xinjian{
+	border:1px dashed #3489f3;
+}
+.shanchu{
+	border:1px solid #f45762;
+}
+.tba td  input{
+	width:30%;
+	
+			border:none;
+		outline:none;
+		border-bottom: 1px solid #12f357;
+
+}
